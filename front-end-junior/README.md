@@ -1,4 +1,4 @@
-# Sobre o teste
+# Teste para oportunidade de Front-end na Casion Tech Goodies
 
 Neste teste vamos avaliar suas habilidades em **HTML**, **SASS**, **organização de código** e **tomada de decisão** na hora de solucionar um problema.
 
@@ -16,3 +16,8 @@ Você pode utilizar ReactJS ou VueJS se preferir, mas não é obrigatório, pode
 
 Você deve entregar teste dentro da data enviada para você no e-mail através de um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
 
+<hr>
+
+**Obs:** Nós valorizamos mais você entregar o teste do que estar perfeito ok? Então mesmo que não consiga terminar, nos envie para que possamos avaliar.
+
+***Boa Sorte ;)***

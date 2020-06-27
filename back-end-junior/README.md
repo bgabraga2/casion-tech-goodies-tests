@@ -10,11 +10,17 @@ Os endpoints devem ser estruturados da seguinte forma:
 
 - Criação de um usuário: **POST** **/users**
 - Listagem dos usuários: **GET** **/users**
-- Atualização de um usuário: **PUT** **/user/:id**
-- Exclusão de um usuário: **DELETE** **/user/:id**
+- Atualização de um usuário: **PUT** **/users/:id**
+- Exclusão de um usuário: **DELETE** **/users/:id**
 
 Utilize o framework **Express** para desenvolver este teste.
 
 ## Entrega
 
 Você deve entregar teste dentro da data enviada para você no e-mail através de um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
+
+<hr>
+
+**Obs:** Nós valorizamos mais você entregar o teste do que estar perfeito ok? Então mesmo que não consiga terminar, nos envie para que possamos avaliar.
+
+***Boa Sorte ;)***
