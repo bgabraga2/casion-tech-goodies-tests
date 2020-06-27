@@ -14,7 +14,7 @@ Você pode utilizar ReactJS ou VueJS se preferir, mas não é obrigatório, pode
 
 ## Entrega
 
-Você deve entregar teste dentro da data enviada para você no e-mail através de um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
+Você deve entregar teste dentro da data enviada para você no e-mail através de um link para um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
 
 <hr>
 

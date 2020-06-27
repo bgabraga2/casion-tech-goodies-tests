@@ -17,7 +17,7 @@ Utilize o framework **Express** para desenvolver este teste.
 
 ## Entrega
 
-Você deve entregar teste dentro da data enviada para você no e-mail através de um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
+Você deve entregar teste dentro da data enviada para você no e-mail através de um link para um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
 
 <hr>
 
