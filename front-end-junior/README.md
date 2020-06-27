@@ -12,4 +12,7 @@ Você pode utilizar ReactJS ou VueJS se preferir, mas não é obrigatório, pode
 
 ![](https://i.imgur.com/DzCXI3x.png)
 
+## Entrega
+
+Você deve entregar teste dentro da data enviada para você no e-mail através de um repositório do ***Github***, assim podemos avaliar seus conhecimentos com de **Git**
 
