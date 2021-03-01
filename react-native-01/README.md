@@ -6,7 +6,7 @@ Neste teste vamos avaliar suas habilidades em **React Native**, **organização 
 
 Criar o aplicativo *Casion News*, que é um aplicativo para leitura de notícias! Ele é super simples e tem apenas duas telas e tem o seguinte comportamento:
 
-[IMAGEM]
+![](https://media2.giphy.com/media/gtiU3nwqk2nIYuDphM/giphy.gif)
 
 Para o melhor desenvolvimento e que você consiga extrair as margens, alturas tamanhos e cores, você pode acessar o link abaixo com tudo certinho e não ter dúvida
 
