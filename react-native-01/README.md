@@ -4,7 +4,7 @@ Neste teste vamos avaliar suas habilidades em **React Native**, **organização 
 
 ## O que deve ser feito
 
-Criar o aplicativo *Casion News*, que é um aplicativo para leitura de notícias! Ele é super simples e tem apenas duas telas e tem o seguinte comportamento:
+Criar o aplicativo *Casion Times*, que é um aplicativo para leitura de notícias! Ele é super simples e tem apenas duas telas e tem o seguinte comportamento:
 
 ![](https://media2.giphy.com/media/gtiU3nwqk2nIYuDphM/giphy.gif)
 
